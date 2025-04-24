@@ -1,0 +1,36 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "First Event",
+            "starts": "20:30",
+            "location": "New York",
+            "description": "This is the first event. It is a great event to attend.",
+            "prices": {
+                "normal": 1500,
+                "vip": 5000,
+                "vvip": 10000,
+                "hightable": 25000
+            },
+            "user": "Noah",
+            "images": { "main": "../public/cardImage.png" },
+            "map": "../public/map.png"
+        },
+        {
+            "id": 2,
+            "name": "Second Event",
+            "starts": "21:00",
+            "location": "Los Angeles",
+            "description": "This is the second event. It is a great event to attend.",
+            "prices": {
+                "normal": 1500,
+                "vip": 5000,
+                "vvip": 10000,
+                "hightable": 25000
+            },
+            "images": { "main": "../public/cardImage.png" },
+            "map": "../public/map.png",
+            "user": "Lise"
+        }
+    ]
+}
