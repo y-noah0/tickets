@@ -13,8 +13,10 @@
                 "hightable": 25000
             },
             "user": "Noah",
-            "images": { "main": "../public/cardImage.png" },
-            "map": "../public/map.png"
+            "image": "/cardImage.png",
+            "map": "/map.png",
+            "atendants": "20k",
+            "tickets": "20k"
         },
         {
             "id": 2,
@@ -28,8 +30,8 @@
                 "vvip": 10000,
                 "hightable": 25000
             },
-            "images": { "main": "../public/cardImage.png" },
-            "map": "../public/map.png",
+            "image": "/cardImage.png" ,
+            "map": "/map.png",
             "user": "Lise"
         }
     ]
