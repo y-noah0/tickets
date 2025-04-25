@@ -24,3 +24,12 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@theme {
+  --color-primary: rgba(255, 236, 93, 0.46);
+  --color-secondary: radial-gradient(109.29% 217.22% at 104.65% -21.21%,
+                                        rgba(93, 89, 61, 0.26) 0%,
+                                        rgba(51, 56, 50, 0.0788004)
+                                        69.14%, rgba(33, 42, 45, 0) 99.2%);
+  --color-accent: 
+}
